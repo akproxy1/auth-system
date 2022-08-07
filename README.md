@@ -34,3 +34,6 @@ Run the app with node server.js
 
 ## User route
 ![User Screenshot](./images/user.JPG)
+
+## Vscode route
+![Vscode Screenshot](./images/authVscode.JPG)
