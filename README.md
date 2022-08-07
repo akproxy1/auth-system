@@ -37,3 +37,9 @@ Run the app with node server.js
 
 ## Vscode route
 ![Vscode Screenshot](./images/authVscode.JPG)
+
+## Password reset route
+![Vscode Screenshot](./images/password.JPG)
+
+## Local Database Screenshot
+![Localdatabase Screenshot](./images/localdatase.JPG)
