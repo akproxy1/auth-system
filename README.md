@@ -14,6 +14,6 @@ Run the app with node server.js
 
 ## Screenshot of api routes
 
-![Email Screenshot](./emailshot.JPG)
+![Register Screenshot](./images/register.JPG)
 
-![Vscode Screenshot](./vscodescreen.JPG)
+![Vscode Screenshot](./image/login.JPG)
