@@ -13,7 +13,8 @@ MONGODB_URI
 Run the app with node server.js
 
 ## Screenshot of api routes
+## Register route
 
 ![Register Screenshot](./images/register.JPG)
-
+## Login route
 ![Vscode Screenshot](./image/login.JPG)
