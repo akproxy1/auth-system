@@ -1,4 +1,4 @@
-# authentication-system
+# Authentication-system
 
 Set the environment variable below
 
@@ -39,7 +39,7 @@ Run the app with node server.js
 ![Vscode Screenshot](./images/authVscode.JPG)
 
 ## Password reset route
-![Vscode Screenshot](./images/password.JPG)
+![password Screenshot](./images/passwordreset.JPG)
 
 ## Local Database Screenshot
-![Localdatabase Screenshot](./images/localdatase.JPG)
+![Localdatabase Screenshot](./images/localdatabase.JPG)
