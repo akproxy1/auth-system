@@ -16,5 +16,24 @@ Run the app with node server.js
 ## Register route
 
 ![Register Screenshot](./images/register.JPG)
+
 ## Login route
-![Vscode Screenshot](./image/login.JPG)
+![Login Screenshot](./images/login.JPG)
+
+## Logout route
+![Logout Screenshot](./images/logout.JPG)
+
+## Admin route
+![Admin Screenshot](./images/admin.JPG)
+
+## Staff route
+![Staff Screenshot](./images/staff.JPG)
+
+## Manager route
+![Manager Screenshot](./images/manager.JPG)
+
+## User route
+![User Screenshot](./images/user.JPG)
+
+## Vscode route
+![Vscode Screenshot](./images/authVscode.JPG)
